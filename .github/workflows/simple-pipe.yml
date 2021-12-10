@@ -15,7 +15,7 @@ on:
 
 jobs:
   info:
-    runs-on: ubunto-latest
+    runs-on: ubuntu-latest
     
     steps:
     - name: Print warning message
